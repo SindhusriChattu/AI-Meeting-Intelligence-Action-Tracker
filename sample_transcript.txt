@@ -1,0 +1,13 @@
+Sprint Planning - Sept 18
+
+Priya: Okay let's get started. First up, the API redesign. Rahul, where are we?
+Rahul: Backend endpoints are done, but we still need to update the docs. I can get that done by Friday.
+Priya: Great, please also loop in the frontend team once it's live.
+Rahul: Will do.
+Priya: Next, the dashboard bug reported by the client. Ananya, can you take a look?
+Ananya: Yeah, I'll investigate today and try to have a fix by tomorrow EOD. It's high priority since the client is blocked.
+Priya: Perfect. Also, we need someone to prepare the demo for Thursday's client call.
+Rahul: I can put that together, I'll have slides ready by Wednesday.
+Priya: Thanks. Last thing, we should revisit the deployment pipeline at some point, it's been flaky. No urgency though, maybe next sprint.
+Ananya: Agreed, I'll add it to the backlog.
+Priya: Sounds good, that's everything for today. Thanks all.
